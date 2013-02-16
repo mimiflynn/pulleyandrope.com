@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>   
-    <title>I was promised cookies</title>
-    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
-    <link>http://localhost:8080</link>
+    <title>Pulley and Rope</title>
+    <atom:link href="http://pulleyandrope.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://pulleyandrope.com</link>
     <description>What it is?!</description>
     <pubDate>Sat, 16 Feb 2013 15:12:00 -0500</pubDate>
     <generator>The mighty Wintersmith</generator>
     <language>en</language>
     <item>
       <title>I was promised cookies</title>
-      <link>http://localhost:8080/articles/iwaspromisedcookies/</link>
+      <link>http://pulleyandrope.com/articles/ropeandpulley/</link>
       <pubDate>Sat, 16 Feb 2013 15:12:00 -0500</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/iwaspromisedcookies/</guid>
+      <guid isPermaLink="true">http://pulleyandrope.com/articles/ropeandpulley/</guid>
       <author></author>
       <description>&lt;p&gt;I purchased this domain name on a whim, with no prior googling to see if the url had a meme attached to it. I bought my server space also on a whim, so, here we are, on the internet, you and me, interacting in a way previously unplanned.
 
