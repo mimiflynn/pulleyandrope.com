@@ -1,9 +1,9 @@
 {
   "locals": {
     "url": "http://localhost:8080",
-    "name": "The Wintersmith's blog",
-    "owner": "The Wintersmith",
-    "description": "-32°C ain't no problems!",
+    "name": "I was promised cookies",
+    "owner": "mimiflynn",
+    "description": "What it is?!",
     "index_articles": 3
   }
 }
