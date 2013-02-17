@@ -11,4 +11,4 @@ Today, I spent a small amount of time at with people from [Brain Interface Labs]
 
 In other news, I'm attempting to use the fancy cmx.js project to start a comic blog at [iwaspromisedcookies.com](http://iwaspromisedcookies.com "I was promised cookies") to document the crazy conversations I tend to overhear in New York City. Hopefully, I'll be able to keep it up ;)
 
-The blog is powered by [Wintersmith](http://jnordberg.github.com/wintersmith/ "wintersmith on github"), btw. It is a static page generator build on nodejs and its amazing and I love it so far.
+The blog is powered by [Wintersmith](http://jnordberg.github.com/wintersmith/ "wintersmith on github"), btw. It is a static page generator built on nodejs and its amazing and I love it so far.
