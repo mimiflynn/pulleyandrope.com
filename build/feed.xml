@@ -21,10 +21,10 @@
 &lt;p&gt;Today, I spent a small amount of time at with people from &lt;a href=&quot;http://braininterfacelab.wordpress.com&quot; title=&quot;hack a brain&quot;&gt;Brain Interface Labs&lt;/a&gt; at the &lt;a href=&quot;http://braininterfacelab.wordpress.com/2013/02/08/hack-a-brain/&quot; title=&quot;hack a brain&quot;&gt;hack a brain&lt;/a&gt; event. It was particularly interesting and got me wondering about the theraputic potentials of a brain interface device. Had a hard day? Stare at these pretty lights for a bit with this headset on. Just wait and see what happens.
 
 &lt;/p&gt;
-&lt;p&gt;In other news, I&apos;m attempting to use the fancy cmx.js project to start a comic blog at &lt;a href=&quot;http://iwaspromisedcookies.com&quot; title=&quot;I was promised cookies&quot;&gt;iwaspromisedcookies.com&lt;/a&gt; to document the crazy conversations I tend to overhear in New York City. Hopefully, I&apos;ll be able to keep it up ;)
+&lt;p&gt;In other news, I&apos;m attempting to use the fancy &lt;a href=&quot;https://github.com/darwin/cmx.js&quot; title=&quot;cmx.js github&quot;&gt;cmx.js&lt;/a&gt; project to start a comic blog at &lt;a href=&quot;http://iwaspromisedcookies.com&quot; title=&quot;I was promised cookies&quot;&gt;iwaspromisedcookies.com&lt;/a&gt; to document the crazy conversations I tend to overhear in New York City. Hopefully, I&apos;ll be able to keep it up ;)
 
 &lt;/p&gt;
-&lt;p&gt;The blog is powered by &lt;a href=&quot;http://jnordberg.github.com/wintersmith/&quot; title=&quot;wintersmith on github&quot;&gt;Wintersmith&lt;/a&gt;, btw. It is a static page generator build on nodejs and its amazing and I love it so far.&lt;/p&gt;
+&lt;p&gt;The blog is powered by &lt;a href=&quot;http://jnordberg.github.com/wintersmith/&quot; title=&quot;wintersmith on github&quot;&gt;Wintersmith&lt;/a&gt;, btw. It is a static page generator built on nodejs and its amazing and I love it so far.&lt;/p&gt;
 </description>
     </item>
   </channel>

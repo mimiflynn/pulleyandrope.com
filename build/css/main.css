@@ -1,4 +1,3 @@
-
 h1, h2, h3, h4, h5, h6, p, blockquote, body {
   margin: 0;
   padding: 0;
@@ -55,6 +54,7 @@ a img {
 
 a#archive {
   display: block;
+  clear: both;
   font-size: 18px;
   font-weight: bold;
   text-align: center;
@@ -63,7 +63,6 @@ a#archive {
 p {
   margin-bottom: 9px;
 }
-
 
 #container {
   min-width: 300px;
@@ -84,8 +83,7 @@ body > header {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#174892', endColorstr='#366fa5',GradientType=0 );
 }
 
-body >footer *,
-body > header * {
+body > footer *, body > header * {
   margin: 0;
   padding: 0;
 }
@@ -93,7 +91,6 @@ body > header * {
 body > header .inner {
   margin: 15px 40px;
 }
-
 
 body > footer {
   margin: 0 40px;
@@ -154,8 +151,24 @@ article.post .content img {
 }
 
 article.post header {
-  margin-bottom: 22px;
   border-bottom: 1px solid #dfdfdf;
+  float: right;
+  width: 25%;
+}
+article.post header h2 {
+  border-bottom: 1px solid #dfdfdf;
+  margin-bottom: 22px;
+}
+
+article.post header ul {
+  margin: 0;
+  padding: 0;
+}
+
+article.post header ul li {
+  margin: 0 0 22px 0;
+  padding: 0;
+  list-style: none;
 }
 
 article.post header a {
@@ -168,6 +181,11 @@ article.post header a:hover {
   text-decoration: underline;
 }
 
+article.post section {
+  float: left;
+  width: 70%;
+}
+
 hr {
   margin: 0 0 19px;
   border: 0;
@@ -177,16 +195,16 @@ hr {
 blockquote {
   padding: 13px 13px 21px 15px;
   margin-bottom: 18px;
-  font-family:georgia,serif;
+  font-family: georgia, serif;
   font-style: italic;
 }
 
 blockquote:before {
-  content:"\201C";
-  font-size:40px;
-  margin-left:-10px;
-  font-family:georgia,serif;
-  color:#eee;
+  content: "\201C";
+  font-size: 40px;
+  margin-left: -10px;
+  font-family: georgia, serif;
+  color: #eee;
 }
 
 blockquote p {
@@ -239,9 +257,7 @@ pre code {
 }
 
 @media screen and (min-width: 776px) {
-  body > header .inner,
-  body > footer .inner,
-  #content {
+  body > header .inner, body > footer .inner, #content {
     width: 676px;
     margin-left: auto;
     margin-right: auto;
