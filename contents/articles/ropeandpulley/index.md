@@ -3,7 +3,7 @@ author: mimiflynn
 date: 2013-02-16 15:12
 template: article.jade
 
-#Rope and Pulley
+#Pulley and Rope
 
 I purchased this domain name on a whim, with no prior googling to see if the url had a meme attached to it. I bought my server space also on a whim, so, here we are, on the internet, you and me, interacting in a way previously unplanned.
 
