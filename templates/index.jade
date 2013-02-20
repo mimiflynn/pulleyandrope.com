@@ -10,13 +10,8 @@ block content
   -   // sort them by date
   -   return -item.date
   - }).first(5).value() // and finally take the first 5
-  header
-    h2 Recent Posts
   each article in articles
     article.post
-        ul 
-          li
-            a(href=article.url)= article.title
       section.content!= article.intro
       if article.hasMore
         p.read-more
