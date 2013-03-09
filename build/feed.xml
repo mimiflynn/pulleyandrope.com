@@ -5,9 +5,50 @@
     <atom:link href="http://pulleyandrope.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://pulleyandrope.com</link>
     <description>What it is?!</description>
-    <pubDate>Sat, 16 Feb 2013 15:12:00 -0500</pubDate>
+    <pubDate>Fri, 01 Mar 2013 19:00:00 -0500</pubDate>
     <generator>The mighty Wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Thoughts on building</title>
+      <link>http://pulleyandrope.com/articles/02-28-2013/</link>
+      <pubDate>Fri, 01 Mar 2013 19:00:00 -0500</pubDate>
+      <guid isPermaLink="true">http://pulleyandrope.com/articles/02-28-2013/</guid>
+      <author></author>
+      <description>&lt;p&gt;My father is a retired electrical engineer. He spent his career engineering the electrical systems of fighter jets. Throughout my entire childhood, my father never hired anyone to fix anything around the house; he did it himself. He would tinker and go to the hardware store and ask questions, and made things work. My science projects were always among the best in the class because they tended to have something fun and electrical about them. A presentation about Thomas Edison had a barebones but working lightbulb and battery setup that wowed my teachers. He taught me to enlarge a map of New Zealand with graph paper and and bright light.
+
+&lt;/p&gt;
+&lt;p&gt;Anyway, &lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Thoughts on building</title>
+      <link>http://pulleyandrope.com/articles/mediterranian/</link>
+      <pubDate>Fri, 01 Mar 2013 19:00:00 -0500</pubDate>
+      <guid isPermaLink="true">http://pulleyandrope.com/articles/mediterranian/</guid>
+      <author></author>
+      <description>&lt;p&gt;A while ago, I was reading about particularly epic geological minutia, like how an entire tectonic plate had slammed into the northwestern part of the united states and now resides somewhere under the midwest, or how you can see te path te pacific plate had taken across the globe and over the hotspot thst crested the hawaiian islands by tracking the submerged peaks to the northwestern most lf the islands.
+
+&lt;/p&gt;
+&lt;p&gt;so, anyway, i feel that the end of the great salinity crisis millions of years ago should b of note.
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Dinner</title>
+      <link>http://pulleyandrope.com/articles/dinner/</link>
+      <pubDate>Sat, 16 Feb 2013 15:12:00 -0500</pubDate>
+      <guid isPermaLink="true">http://pulleyandrope.com/articles/dinner/</guid>
+      <author></author>
+      <description>&lt;h1&gt;Dinner&lt;/h1&gt;
+&lt;p&gt;This evening began with wine and pasta at our favorite Italian restaurant in Park Slope. The space filled up quickly, so another couple was seated right next to us, in a fashion that would usually be reserved for groups of people that actually know each other.
+
+&lt;/p&gt;
+&lt;p&gt;It must have been a little awkward for them to be seated so closely to another couple that was clearly in the middle of random and empty couple talk. As we chatted about our future plans, goofy work stories, and friend gossip, it became apparent that the other couple was not only listening in to our conversation but talking about and making fun of it. They were making snotty remarks about our wine fueled chitchat not even six inches away from us leading us to wonder if it was possible, that after one glass of wine, were we the loud talking assholes or were they.
+
+&lt;/p&gt;
+&lt;p&gt;We will never know.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>And so we begin</title>
       <link>http://pulleyandrope.com/articles/begin/</link>
@@ -25,22 +66,6 @@
 
 &lt;/p&gt;
 &lt;p&gt;The blog is powered by &lt;a href=&quot;http://jnordberg.github.com/wintersmith/&quot; title=&quot;wintersmith on github&quot;&gt;Wintersmith&lt;/a&gt;, btw. It is a static page generator built on nodejs and its amazing and I love it so far.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Dinner</title>
-      <link>http://pulleyandrope.com/articles/dinner/</link>
-      <pubDate>Sat, 16 Feb 2013 15:12:00 -0500</pubDate>
-      <guid isPermaLink="true">http://pulleyandrope.com/articles/dinner/</guid>
-      <author></author>
-      <description>&lt;h1&gt;Dinner&lt;/h1&gt;
-&lt;p&gt;This evening began with wine and pasta at our favorite Italian restaurant in Park Slope. The space filled up quickly, so another couple was seated right next to us, in a fashion that would usually be reserved for groups of people that actually know each other.
-
-&lt;/p&gt;
-&lt;p&gt;It must have been a little awkward for them to be seated so closely to another couple that was clearly in the middle of random and empty couple talk. As we chatted about our future plans, goofy work stories, and friend gossip, it became apparent that the other couple was not only listening in to our conversation but talking about and making fun of it. They were making snotty remarks about our wine fueled chitchat not even six inches away from us leading us to wonder if it was possible, that after one glass of wine, were we the loud talking assholes or were they.
-
-&lt;/p&gt;
-&lt;p&gt;We will never know.&lt;/p&gt;
 </description>
     </item>
   </channel>
