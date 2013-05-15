@@ -8,9 +8,12 @@ html(lang='en')
           = locals.name
       link(rel='alternate', href=locals.url+'/feed.xml', type='application/rss+xml', title=locals.description)
       link(rel='stylesheet', href='http://fonts.googleapis.com/css?family=Fredericka+the+Great')
-      link(rel='stylesheet', href='/css/github.css')
-      link(rel='stylesheet', href='/css/main.css')
-      script(type='text/javascript', src='/js/google-analytics.js')
+      link(rel='stylesheet', href=locals.url+'/lib/bootstrap/css/bootstrap.min.css')
+      link(rel='stylesheet', href=locals.url+'/lib/bootstrap/css/bootstrap-responsive.min.css')
+      link(rel='stylesheet', href=locals.url+'/css/github.css')
+      link(rel='stylesheet', href=locals.url+'/css/main.css')
+      script(type='text/javascript', src=locals.url+'/js/google-analytics.js')
+      script(type='text/javascript', src=locals.url+'/lib/bootstrap/bootstrap.min.js')
   body
     header
       div.inner

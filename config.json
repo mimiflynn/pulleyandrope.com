@@ -1,6 +1,7 @@
 {
   "locals": {
-    "url": "http://pulleyandrope.com",
+    
+    "url": "http://localhost:8080",
     "name": "Pulley and Rope",
     "owner": "mimiflynn",
     "description": "What it is?!",

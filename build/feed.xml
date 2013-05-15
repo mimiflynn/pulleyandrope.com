@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>   
     <title>Pulley and Rope</title>
-    <atom:link href="http://pulleyandrope.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
-    <link>http://pulleyandrope.com</link>
+    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://localhost:8080</link>
     <description>What it is?!</description>
     <pubDate>Sat, 13 Apr 2013 15:12:00 -0400</pubDate>
     <generator>The mighty Wintersmith</generator>
     <language>en</language>
     <item>
       <title>Interesting Links</title>
-      <link>http://pulleyandrope.com/articles/interesting-links/</link>
+      <link>http://localhost:8080/articles/interesting-links/</link>
       <pubDate>Sat, 13 Apr 2013 15:12:00 -0400</pubDate>
-      <guid isPermaLink="true">http://pulleyandrope.com/articles/interesting-links/</guid>
+      <guid isPermaLink="true">http://localhost:8080/articles/interesting-links/</guid>
       <author></author>
       <description>&lt;h1&gt;Interesting Links&lt;/h1&gt;
 &lt;p&gt;The following is a Gist I created to keep track of all of the interesting articles I have come across that I&apos;m sure will end up in conversation in the future.
@@ -22,9 +22,9 @@
     </item>
     <item>
       <title>And so we begin</title>
-      <link>http://pulleyandrope.com/articles/begin/</link>
+      <link>http://localhost:8080/articles/begin/</link>
       <pubDate>Sat, 16 Feb 2013 15:12:00 -0500</pubDate>
-      <guid isPermaLink="true">http://pulleyandrope.com/articles/begin/</guid>
+      <guid isPermaLink="true">http://localhost:8080/articles/begin/</guid>
       <author></author>
       <description>&lt;h1&gt;And so we begin&lt;/h1&gt;
 &lt;p&gt;I purchased this domain name on a whim, with no prior googling to see if the url had a meme attached to it. I bought my server space also on a whim, so, here we are, on the internet, you and me, interacting in a way previously unplanned.
@@ -41,9 +41,9 @@
     </item>
     <item>
       <title>Dinner</title>
-      <link>http://pulleyandrope.com/articles/dinner/</link>
+      <link>http://localhost:8080/articles/dinner/</link>
       <pubDate>Sat, 16 Feb 2013 15:12:00 -0500</pubDate>
-      <guid isPermaLink="true">http://pulleyandrope.com/articles/dinner/</guid>
+      <guid isPermaLink="true">http://localhost:8080/articles/dinner/</guid>
       <author></author>
       <description>&lt;h1&gt;Dinner&lt;/h1&gt;
 &lt;p&gt;This evening began with wine and pasta at our favorite Italian restaurant in Park Slope. The space filled up quickly, so another couple was seated right next to us, in a fashion that would usually be reserved for groups of people that actually know each other.
@@ -57,9 +57,9 @@
     </item>
     <item>
       <title>Untitled</title>
-      <link>http://pulleyandrope.com/articles/readme/</link>
+      <link>http://localhost:8080/articles/readme/</link>
       <pubDate>Wed, 31 Dec 1969 19:00:00 -0500</pubDate>
-      <guid isPermaLink="true">http://pulleyandrope.com/articles/readme/</guid>
+      <guid isPermaLink="true">http://localhost:8080/articles/readme/</guid>
       <author></author>
       <description>&lt;p&gt;A flexible static site generator – &lt;a href=&quot;http://jnordberg.github.com/wintersmith/&quot;&gt;http://jnordberg.github.com/wintersmith/&lt;/a&gt;
 
