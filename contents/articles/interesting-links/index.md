@@ -7,4 +7,6 @@ template: article.jade
 
 The following is a Gist I created to keep track of all of the interesting articles I have come across that I'm sure will end up in conversation in the future.
 
+So, really, its a bibliogrpahy for everything I'll probably say in the future ;)
+
 <script src="https://gist.github.com/mimiflynn/4612084.js"></script>
