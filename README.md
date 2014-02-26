@@ -1,4 +1,3 @@
-pulleyandrope.com
-=================
+# pulleyandrope.com
 
-pulleyandrope.com website made with wintersmith for your pleasure.
+Its my cited sources.
