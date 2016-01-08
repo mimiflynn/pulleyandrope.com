@@ -1,17 +1,12 @@
 extends layout
 
 block content
-  include author
-  each article in articles
-    article.article.intro
-      header
-        h2
-          a(href=article.url)= article.title
-      section.content
-        | !{ typogr(article.intro).typogrify() }
-        if article.hasMore
-          p.more
-            a(href=article.url) more
+  a(href=blog.html) Blog
+
+block content
+  p
+    | This is, essentially, my cited sources, a bibliography of articles that might come up in future conversation. If you heard me say 'I recently read something about that', there is probably a link to it here. Nontheless, I hope you enjoy digging through these links as much I have enjoyed discovering them.
+  script(type='text/javascript' src='https://gist.github.com/mimiflynn/4612084.js')/
 
 block prepend footer
   div.nav
@@ -21,7 +16,3 @@ block prepend footer
       a(href='/archive.html') « Archives
     if nextPage
       a(href=nextPage.url) Next page »
-
-
-
-
