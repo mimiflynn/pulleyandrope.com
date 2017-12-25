@@ -5,11 +5,14 @@
   "version": "0.2.2",
   "private": true,
   "dependencies": {
-    "moment": "2.3.1",
-    "underscore": "1.4.4",
-    "typogr": "0.5.2",
-    "wintersmith": "2.0.10",
-    "wintersmith-data-json": "0.0.5"
+    "moment": "^2.20.1",
+    "underscore": "1.4.x",
+    "typogr": "0.5.x"
+  },
+  "scripts": {
+    "clean": "rm -rf docs",
+    "dev": "wintersmith preview",
+    "build": "npm run clean && wintersmith build && mv build docs && cp CNAME docs/CNAME"
   },
   "repository": {
     "type": "git",

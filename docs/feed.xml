@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pulley and Rope</title>
+    <atom:link href="http://pulleyandrope.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://pulleyandrope.com</link>
+    <description>Wanderings about the Web</description>
+    <pubDate>Sat, 13 Apr 2013 15:12:00 -0400</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Interesting Links</title>
+      <link>http://pulleyandrope.com/articles/interesting-links/</link>
+      <pubDate>Sat, 13 Apr 2013 15:12:00 -0400</pubDate>
+      <guid isPermaLink="true">http://pulleyandrope.com/articles/interesting-links/</guid>
+      <author></author>
+      <description>&lt;p&gt;This is, essentially, my cited sources, a bibliography of articles that might come up in future conversation. If you heard me say ‘I recently read something about that’, there is probably a link to it here. Nontheless, I hope you enjoy digging through these links as much I have enjoyed discovering them.&lt;/p&gt;
+&lt;script src=&quot;https://gist.github.com/mimiflynn/4612084.js&quot;&gt;&lt;/script&gt;
+</description>
+    </item>
+  </channel>
+</rss>
